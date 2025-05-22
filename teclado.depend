@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1747355232 source:c:\users\usuario\desktop\teclado\teclado\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1747692277 source:d:\pc comprimida\utn\proyectos\teclado\teclado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
